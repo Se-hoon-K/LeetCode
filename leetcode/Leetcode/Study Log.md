@@ -10,3 +10,5 @@ Although I have got the initial understanding, further study and repetition will
 Qestion 2379 was an easy level challenge, not much to think about.
 Re-use on charAt() function was good.
 Will do further study on other user's solutions
+
+### additional Note, used leetcode provided answer using queue and ArrayList, but the time complexity was too much
