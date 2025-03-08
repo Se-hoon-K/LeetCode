@@ -4,3 +4,9 @@ Questions required finding the prime number between two imputs. In order to solv
 Found the algorithm called __"Sieve of Eratosthenes"__
 
 Although I have got the initial understanding, further study and repetition will be required to fully utilize this algorithm.
+
+## 08-MAR-205
+
+Qestion 2379 was an easy level challenge, not much to think about.
+Re-use on charAt() function was good.
+Will do further study on other user's solutions
