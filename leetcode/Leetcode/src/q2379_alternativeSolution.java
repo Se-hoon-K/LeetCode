@@ -1,6 +1,9 @@
 // this is a solution given by LeetCode
 
+import java.util.LinkedList;
+import java.util.Queue;
 
+class q2379_alternativeSolution{
 class Solution {
 
     public int minimumRecolors(String blocks, int k) {
@@ -31,4 +34,5 @@ class Solution {
         }
         return numRecolors;
     }
+}
 }
