@@ -19,3 +19,6 @@ Question 3208 was on moving slit windows. Idea came quickly but the implementati
 ## 10-MAR-2025
 Qusetion 3306 was challenging, used the sliding window method that i have studied yesterday.
 Time complexity is O(N) but memory wise, it is O(1)
+
+## 11-MAR-2025
+Questions 1358 was again on sliding windows. starting to get the hang of the algorithm
