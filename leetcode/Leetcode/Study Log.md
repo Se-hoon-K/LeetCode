@@ -22,3 +22,7 @@ Time complexity is O(N) but memory wise, it is O(1)
 
 ## 11-MAR-2025
 Questions 1358 was again on sliding windows. starting to get the hang of the algorithm
+
+## 12-MAR-2025
+Question 2529 was an easy level question asking to return the highest count between positive and negative integers.
+Some people used binary search to do so, but couldn't fully comprehend.
