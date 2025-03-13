@@ -26,3 +26,6 @@ Questions 1358 was again on sliding windows. starting to get the hang of the alg
 ## 12-MAR-2025
 Question 2529 was an easy level question asking to return the highest count between positive and negative integers.
 Some people used binary search to do so, but couldn't fully comprehend.
+
+## 13-MAR-2025
+Didn't understand the question. it was too difficult. Read the solutions tab for this Q. binary search is still tricky for me
